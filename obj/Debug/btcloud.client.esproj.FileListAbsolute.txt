@@ -1,0 +1,2 @@
+C:/Projects/BTCloud/btcloud.client/obj/Debug/btcloud.client.esproj.CoreCompileInputs.cache
+/Users/marcobazzoli/Projects/BTCloud/btcloud.client/obj/Debug/btcloud.client.esproj.CoreCompileInputs.cache
